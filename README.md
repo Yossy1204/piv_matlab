@@ -4,8 +4,15 @@ Simple Particle Image Velocity for MATLAB
 ### USAGE
 This is a very simple software of the particle image velocimetry (PIV).  
 Because the codes of this PIV are written straightforward, the beginner of the PIV users (and may be, programmers) can easily understand the step-by-step procedures of the PIV.  
-  
-This PIV software only imprement the maximum-correlation matching, so this software is VERY slow right now.
+ 
+This software is currently for the education of PIV. 
+Because this PIV software only imprement the simple maximum-correlation matching.  
+So this software is VERY slow right now.  
+
+### Feature
+ROI-based image masking  
+Image matching by the simple maximum-correlation search.  
+Automatic error validation by median-based outlier detection.  
 
 ### REQUIREMENT
 Two sequencial particle image files (*.tif images)   
