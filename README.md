@@ -9,7 +9,7 @@ This software is currently for the education of PIV.
 Because this PIV software only imprement the simple maximum-correlation matching.  
 So this software is VERY slow right now.  
 
-### Feature
+### FEATURE
 ROI-based image masking  
 Image matching by the simple maximum-correlation search.  
 Automatic error validation by median-based outlier detection.  
